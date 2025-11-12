@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there! I'm Francisco Uriel Macías Macías
 
-<!--
-**Acox24/Acox24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Systems Engineering student (UASLP)  
+💻 Passionate about Artificial Intelligence, programming, and mobile app development.  
+🚀 Always eager to learn more about AI-powered development and contribute to innovative projects.  
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+- **Languages:** C, Java, Python  
+- **Tools:** Git, Linux, Visual Studio Code  
+- **Interests:** Artificial Intelligence, Mobile Development, Backend, and Cybersecurity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Get in Touch
+- 📧 fran24macias@gmail.com  
+- 💼 LinkedIn or portfolio link]](https://www.linkedin.com/in/francisco-uriel-macias-macias-957b76286  
+
+⭐ Always open to collaborating on AI or software development projects!
